@@ -1,0 +1,50 @@
+#img1 {
+    width:100;
+    height:50;
+}
+.line {
+    height: 6px;
+    background-color:black;
+    width: 50px;
+    margin: 8px auto;
+}
+body {
+    text-align: center;
+}
+#heading {
+    font-family: 'Nerko One', cursive;
+}
+#heading1 {
+    font-family: 'Yeon Sung', cursive;
+}
+#link {
+    font-size: 20px;
+}
+#heading2 {
+    font-family: 'Ranchers', cursive;
+}
+#img2 {
+    width: 50;
+    height: 50;
+}
+#heading3 {
+    font-family: 'Langar', cursive;
+}
+#heading4 {
+    font-family: 'Teko', sans-serif;
+}
+#heading5 {
+    font-family: 'Jura', sans-serif;
+}
+#heading6 {
+    color:darkblue;
+    font-family: 'Jura', sans-serif;
+}
+#heading7 {
+    color:crimson;
+font-family: 'Jura', sans-serif;
+}
+#heading8 {
+    font-family: 'Nerko One', cursive;
+    font-size: 30;
+}
